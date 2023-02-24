@@ -1,11 +1,11 @@
 [package]
-name = "mow"
-authors = ["Ola Næss Kaldestad <mail@okal.no>"]
+name = "mdw"
+authors = ["Ola Næss Kaldestad <mail@okal.no>", "Lucas Westermann <lswest34@gmail.com"]
 version = "0.1.0"
 edition = "2021"
 description = """
 
-Cross platform CLI tool for Glorious' Model O Wireless.
+Cross platform CLI tool for Glorious' Model D Wireless. Original code base from mow.
 
 Reverse engineered using USB packet logs sniffed with
 WireShark and USBPcap, as well as decompiled Windows
